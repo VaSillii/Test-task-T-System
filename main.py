@@ -25,6 +25,6 @@ if __name__ == '__main__':
     task_1()
 
     # Task 2
-    # task_2()
+    task_2()
 
     logging.info('End program')
