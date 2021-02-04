@@ -9,7 +9,6 @@ PATH_FILE_EXCEL = os.path.join(PATH_CURRENT_FOLDER, NAME_FILE_EXCEL)
 PATH_DESCTOP = os.path.join(os.path.join(os.path.expanduser('~')), 'Desktop')
 
 # Task 2
-COMMAND_OPEN_SPOTLITE = 'option, space'
 NAME_PROGRAM_OPENED = 'Sublime Text'
 POEM = """
 Twas brillig, and the slithy toves
